@@ -19,3 +19,6 @@
 [submodule "samples/spring-cloud-config-properties"]
 	path = samples/spring-cloud-config-properties
 	url = https://github.com/lllabs/l2labs-spring-samples-properties.git
+[submodule "samples-spring-cloud-config-properties"]
+	path = samples-spring-cloud-config-properties
+	url = https://github.com/lllabs/l2labs-spring-samples-properties.git
