@@ -1,0 +1,10 @@
+plugins {
+    id 'java'
+    id 'java-library'
+}
+
+description = "spring cloud service Eureka server sample"
+
+dependencies {
+    implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-server'
+}

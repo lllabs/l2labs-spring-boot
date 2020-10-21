@@ -1,0 +1,18 @@
+[submodule "l2labs-spring-core"]
+	path = l2labs-spring-core
+	url = https://github.com/lllabs/l2labs-spring-core.git
+[submodule "l2labs-spring-security-core"]
+	path = l2labs-spring-security-core
+	url = https://github.com/lllabs/l2labs-spring-security-core.git
+[submodule "l2labs-spring-security-server"]
+	path = l2labs-spring-security-server
+	url = https://github.com/lllabs/l2labs-spring-security-server.git
+[submodule "l2labs-spring-security-client"]
+	path = l2labs-spring-security-client
+	url = https://github.com/lllabs/l2labs-spring-security-client.git
+[submodule "l2labs-spring-support"]
+	path = l2labs-spring-support
+	url = https://github.com/lllabs/l2labs-spring-support.git
+[submodule "l2labs-java-utils"]
+	path = l2labs-java-utils
+	url = https://github.com/lllabs/l2labs-java-utils.git
