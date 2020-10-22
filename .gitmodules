@@ -16,3 +16,6 @@
 [submodule "l2labs-java-utils"]
 	path = l2labs-java-utils
 	url = https://github.com/lllabs/l2labs-java-utils.git
+[submodule "l2labs-spring-boot-samples-properties"]
+	path = l2labs-spring-boot-samples-properties
+	url = https://github.com/lllabs/l2labs-spring-boot-samples-properties.git
