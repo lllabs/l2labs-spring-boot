@@ -9,6 +9,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloRestController {
 
+    @Value("${config.profile:config.profile}")
+    private String configProfile;
+
     @Value("${config.name:config.name}")
     private String configName;
 
@@ -16,7 +19,7 @@ public class HelloRestController {
     public String[] hello() {
 
         return new String[]{
-                configName
+                configProfile, configName
         };
     }
 

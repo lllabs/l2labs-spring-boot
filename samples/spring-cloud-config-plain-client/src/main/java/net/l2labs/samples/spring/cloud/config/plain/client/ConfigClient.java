@@ -1,4 +1,4 @@
-package net.l2labs.samples.spring.cloud.config.basic.client;
+package net.l2labs.samples.spring.cloud.config.plain.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
