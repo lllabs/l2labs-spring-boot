@@ -8,9 +8,9 @@ include 'l2labs-spring-security-server'
 include 'l2labs-spring-support'
 
 include 'samples:spring-boot-rest-controller'
-include 'samples:spring-cloud-config-encrypt-client'
-include 'samples:spring-cloud-config-encrypt-server'
-include 'samples:spring-cloud-config-plain-client'
-include 'samples:spring-cloud-config-plain-server'
+include 'samples:spring-cloud-config-client'
+include 'samples:spring-cloud-config-server'
 include 'samples:spring-cloud-eureka-server'
 include 'samples:spring-cloud-gateway'
+include 'samples:spring-cloud-config-client-mq'
+
